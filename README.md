@@ -1,17 +1,31 @@
-# 💫 About Me:
-Talks About<br><br>Cloud computing | Salesforce Developer | Prompt Designer🌟| Linkedin Content Creater 
+# Hi there! 👋 I'm Ganeshmoorthy
+![image](https://github.com/Mr-Techganesh/Mr-Techganesh/assets/117075085/eb95cf5a-2bfb-45b8-8dc6-77279265fe3b)
 
 
-## 🌐 Socials:
-[![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://behance.net/Ganeshmoorthy) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/ganesh-moorthy) 
+## About Me
+I'm a passionate Salesforce Developer with expertise in Flow Builder, Process Automation, Lightning Web Components, and Salesforce.com. Additionally, I have a solid foundation in cloud technology, particularly in AWS, spanning IAAS, PAAS, and SAAS architectures. My proficiency in Java adds depth to my programming skills.
 
-# 💻 Tech Stack:
-![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=for-the-badge&logo=cisco&logoColor=black) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![AmazonDynamoDB](https://img.shields.io/badge/Amazon%20DynamoDB-4053D6?style=for-the-badge&logo=Amazon%20DynamoDB&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Mr-Techganesh&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Mr-Techganesh&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Mr-Techganesh&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+## Skills
+- Salesforce Development: Flow Builder, Process Automation, Lightning Web Components, Salesforce.com
+- Cloud Technology: AWS Cloud, IBM Cloud
+- Programming Languages: Java
+- OS: Linux
+- Prompt Engineering for Chat GPT
+- LinkedIn Content Creator
 
----
-[![](https://visitcount.itsvg.in/api?id=Mr-Techganesh&icon=0&color=0)](https://visitcount.itsvg.in)
+## Projects
+### Lightning Web Components Showcase
+- Description: Sure, your organization previously used a messy system of emailing spreadsheets for travel approvals. There was no central place to track or enforce the process, making it impossible to report on travel approvals across the company. Now, the plan is to build a custom travel approval app to address these issues and create a smoother, trackable process.
+- Link: ([Travel-Approval-Lightning-App](https://github.com/Mr-Techganesh/Travel-Approval-Lightning-App) )
+
+
+## Contact Me
+Connect with me on [LinkedIn](link-to-your-LinkedIn-profile) for professional inquiries and collaborations.
+
+## Let's Connect
+- [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/ganesh-moorthy) 
+
+- 📫 How to reach me **gcmganesh2001@gmail.com**
+
+Feel free to reach out for collaboration opportunities or if you have any questions!
 
